@@ -1,0 +1,14 @@
+Kullanıcı adı		tc			şifre	
+----------------- 	-------------	------------------
+admin				admin			admin
+Murat Karadeniz		00000000000		password
+Ali Turhan			11111111111		sifre123
+Can Mert			12345678912		deneme321
+Ayşe Öz			14785236978		1234567
+
+
+
+
+admin kullanıcısıyla giriş yapabilirsiniz veya yeni kullanıcı ekleyip giriş yapabilirsiniz. TC ve Şifre girmeniz 
+gerekiyor.
+JAR dosyası dist in içerisinde.
